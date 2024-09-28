@@ -1,4 +1,7 @@
 # Life-Sim-C-
+
+This program is full of bugs. Please debug before running. 
+
 This is console-based simulation game made in C.
 
 In this game there are some basic features like bank account, lottery, trading etc
